@@ -9,6 +9,7 @@ All outputs will be saved in the same directory as the EasyMTA program.
 **Author**: Brox  
 **How to Use**: [YouTube](https://youtube.com)  
 **Support Me**: [Buy Me a Coffee](https://buymeacoffee.com/broxtheone)
+
 **Used Language**: [Python](https://www.python.org/)
 
 ## Overview Image:
