@@ -14,4 +14,4 @@ All outputs will be saved in the same directory as the EasyMTA program.
 
 ## Overview Image:
 
-![Overview](https://media.discordapp.net/attachments/1288122892155879445/1288125246511120384/EasyMTA.PNG?ex=66f6ae9e&is=66f55d1e&hm=06132496e755e6e496a9969c6818596c2d10fa5bc16a491b65d341df0691e434&=&format=webp&quality=lossless)
+![Overview](https://media.discordapp.net/attachments/860156555512119346/1319824271941570632/68A91851-6C2F-4979-86CB-54BAA14CA02A.png?ex=67675da3&is=67660c23&hm=2c616667a28c590ee029f7987844634d1ba9aad6f21da257057b55583b2dbcac&=&format=webp&quality=lossless&width=550&height=295)
